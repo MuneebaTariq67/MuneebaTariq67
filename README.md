@@ -71,14 +71,10 @@
 🎯 **Aspiring Full Stack Developer**
 
 # 🚀 Featured Projects
-
-🌸 *Portfolio Website* (Coming Soon)
-
-🛍️ *Scrunchies Store Website*
-
-💾 *Digital Memory Vault*
-
-📚 *Student Attendance Management System*
+🌸 **Portfolio Website** *(Coming Soon)* <br>
+🛍️ **Scrunchies Store Website** <br>
+💾 **Digital Memory Vault** <br>
+📚 **Student Attendance Management System**
 
 ---
 
