@@ -11,7 +11,7 @@
 </div>
 
 ---
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=14,24,30,31,32"/>
+
 
 # 💫 About Me
 - 👩‍💻 Computer Science Student
@@ -19,7 +19,7 @@
 - ⚛️ Currently Learning React.js
 - 🚀 Building Modern & Responsive Websites
 - 🌱 Always Exploring New Technologies
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=14,24,30,31,32"/>
+
 ---
 
 # 🌐 Connect With Me
@@ -34,14 +34,14 @@
 <img src="https://skillicons.dev/icons?i=github" width="48"/>
 </a>
 </p>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=14,24,30,31,32"/>
+
 ---
 
 # 💻 Tech Stack
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,firebase,mysql,git,github,vscode,androidstudio,cpp,python,java"/>
 </p>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=14,24,30,31,32"/>
+
 ---
 
 # 📊 GitHub Stats
@@ -52,14 +52,14 @@
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuneebaTariq67&theme=radical&hide_border=true"/>
 </p>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=14,24,30,31,32"/>
+
 ---
 
 # 📈 Contribution Graph
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuneebaTariq67&bg_color=0d1117&color=ff69b4&line=ff69b4&point=ffffff&area=true&area_color=ff69b4&hide_border=true"/>
 </p>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=14,24,30,31,32"/>
+
 ---
 
 ## 📌 GitHub Overview
@@ -75,13 +75,13 @@
 > 📂 **19 Public Repositories**
 >
 > 🎯 **Aspiring Full Stack Developer**
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=14,24,30,31,32"/>
+
 # 🚀 Featured Projects
 🌸 **Portfolio Website** *(Coming Soon)* <br>
 🛍️ **Scrunchies Store Website** <br>
 💾 **Digital Memory Vault** <br>
 📚 **Student Attendance Management System**
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=14,24,30,31,32"/>
+
 ---
 
 # 🌱 Currently Learning
@@ -89,14 +89,14 @@
 - JavaScript
 - Responsive Web Design
 - Modern Frontend Development
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=14,24,30,31,32"/>
+
 ---
 
 # 👀 Profile Views
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=MuneebaTariq67&label=Profile%20Views&color=ff69b4&style=for-the-badge"/>
 </p>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=14,24,30,31,32"/>
+
 ---
 
 <div align="center">
