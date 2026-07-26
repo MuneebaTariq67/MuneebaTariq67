@@ -62,20 +62,13 @@
 ---
 
 # 📌 GitHub Overview
-
-👩 *Name:* Muneeba Tariq
-
-🎓 *Computer Science Student*
-
-💻 *Frontend Web Developer*
-
-⚛️ *Currently Learning:* React.js
-
-📂 *19 Public Repositories*
-
-🚀 *Building Modern & Responsive Web Applications*
-
-🎯 *Aspiring Full Stack Developer*
+👩 **Name:** Muneeba Tariq <br>
+🎓 **Computer Science Student** <br>
+💻 **Frontend Web Developer** <br>
+⚛️ **Currently Learning:** React.js <br>
+📂 **19 Public Repositories** <br>
+🚀 **Building Modern & Responsive Web Applications** <br>
+🎯 **Aspiring Full Stack Developer**
 
 # 🚀 Featured Projects
 
