@@ -19,6 +19,7 @@
 - ⚛️ Currently Learning React.js
 - 🚀 Building Modern & Responsive Websites
 - 🌱 Always Exploring New Technologies
+- 📫 Reach me at: <a href="mailto:muneebatariq239@gmail.com">muneebatariq239@gmail.com</a>
 
 ---
 
