@@ -64,23 +64,18 @@
 
 ## 📌 GitHub Overview
 
-<p align="center">
+👩‍💻 **Frontend Web Developer**
 
-<img src="https://img.shields.io/badge/Frontend-Developer-ff69b4?style=for-the-badge">
+🎓 **BS Computer Science Student**
 
-<img src="https://img.shields.io/badge/React.js-Learning-c77dff?style=for-the-badge">
+📂 **19 Public Repositories**
 
-<img src="https://img.shields.io/badge/19-Repositories-db2777?style=for-the-badge">
+⚛️ **Currently Learning React.js**
 
-</p>
+🚀 **Building Responsive Web Applications**
 
-<p align="center">
+🎯 **Aspiring Full Stack Developer**
 
-🎓 BS Computer Science Student <br>
-💻 Passionate about Frontend Development <br>
-🚀 Building Responsive & Modern Websites
-
-</p>
 
 # 🚀 Featured Projects
 🌸 **Portfolio Website** *(Coming Soon)* <br>
