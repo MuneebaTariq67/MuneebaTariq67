@@ -80,28 +80,22 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MuneebaTariq67&theme=radical&no-frame=true&no-bg=true&margin-w=12"/>
-
-</p>
-
----
 
 # 📌 GitHub Overview
 
-| 🚀 Information | 📌 Details |
-|---------------|------------|
-| 👩 Name | **Muneeba Tariq** |
-| 🎓 Degree | **BS Computer Science** |
-| 💻 Role | **Frontend Web Developer** |
-| ⚛️ Learning | **React.js** |
-| 📂 Public Repositories | **19** |
-| 🎯 Goal | **Become a Full Stack Developer** |
+👩 **Name:** Muneeba Tariq
 
----
+🎓 **Computer Science Student**
+
+💻 **Frontend Web Developer**
+
+⚛️ **Currently Learning:** React.js
+
+📂 **19 Public Repositories**
+
+🚀 **Building Modern & Responsive Web Applications**
+
+🎯 **Aspiring Full Stack Developer**
 
 # 🚀 Featured Projects
 
