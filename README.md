@@ -77,11 +77,6 @@
 🎯 **Aspiring Full Stack Developer**
 
 
-# 🚀 Featured Projects
-🌸 **Portfolio Website** *(Coming Soon)* <br>
-🛍️ **Scrunchies Store Website** <br>
-💾 **Digital Memory Vault** <br>
-📚 **Student Attendance Management System**
 
 ---
 
