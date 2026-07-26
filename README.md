@@ -63,15 +63,17 @@
 
 ## 📌 GitHub Overview
 
-```yaml
-👩‍💻 Name: Muneeba Tariq
-🎓 Degree: BS Computer Science
-💻 Role: Frontend Web Developer
-⚛️ Learning: React.js
-📂 Public Repositories: 19
-🚀 Building: Responsive Web Applications
-🎯 Goal: Become a Full Stack Developer
-```
+> 👩‍💻 **Frontend Web Developer**
+>
+> 🎓 **BS Computer Science Student**
+>
+> ⚛️ **Currently Learning React.js**
+>
+> 🚀 **Building Responsive Web Applications**
+>
+> 📂 **19 Public Repositories**
+>
+> 🎯 **Aspiring Full Stack Developer**
 
 # 🚀 Featured Projects
 🌸 **Portfolio Website** *(Coming Soon)* <br>
