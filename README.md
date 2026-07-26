@@ -62,19 +62,30 @@
 ---
 
 # 📌 GitHub Overview
-👩 **Name:** Muneeba Tariq
-🎓 **Computer Science Student**
-💻 **Frontend Web Developer**
-⚛️ **Currently Learning:** React.js
-📂 **19 Public Repositories**
-🚀 **Building Modern & Responsive Web Applications**
-🎯 **Aspiring Full Stack Developer**
+
+👩 *Name:* Muneeba Tariq
+
+🎓 *Computer Science Student*
+
+💻 *Frontend Web Developer*
+
+⚛️ *Currently Learning:* React.js
+
+📂 *19 Public Repositories*
+
+🚀 *Building Modern & Responsive Web Applications*
+
+🎯 *Aspiring Full Stack Developer*
 
 # 🚀 Featured Projects
-🌸 **Portfolio Website** *(Coming Soon)*
-🛍️ **Scrunchies Store Website**
-💾 **Digital Memory Vault**
-📚 **Student Attendance Management System**
+
+🌸 *Portfolio Website* (Coming Soon)
+
+🛍️ *Scrunchies Store Website*
+
+💾 *Digital Memory Vault*
+
+📚 *Student Attendance Management System*
 
 ---
 
