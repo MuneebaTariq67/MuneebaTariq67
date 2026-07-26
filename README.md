@@ -63,23 +63,15 @@
 
 ## 📌 GitHub Overview
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/👩‍💻_Name-Muneeba_Tariq-ff69b4?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/🎓_BS_Computer_Science-c77dff?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/💻_Frontend_Web_Developer-f472b6?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/⚛️_Learning-React.js-ec4899?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/📂_19_Public_Repositories-d946ef?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/🚀_Building-Responsive_Web_Applications-db2777?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/🎯_Goal-Full_Stack_Developer-be185d?style=for-the-badge" />
-
-</p>
+```yaml
+👩‍💻 Name: Muneeba Tariq
+🎓 Degree: BS Computer Science
+💻 Role: Frontend Web Developer
+⚛️ Learning: React.js
+📂 Public Repositories: 19
+🚀 Building: Responsive Web Applications
+🎯 Goal: Become a Full Stack Developer
+```
 
 # 🚀 Featured Projects
 🌸 **Portfolio Website** *(Coming Soon)* <br>
