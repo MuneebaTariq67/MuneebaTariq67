@@ -118,11 +118,7 @@
 
 ---
 
-# 💭 Quote
 
-> **"Turning ideas into modern web experiences, one line of code at a time."** 💖
-
----
 
 # 👀 Profile Views
 
