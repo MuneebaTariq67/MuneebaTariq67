@@ -23,20 +23,7 @@
 
 ---
 
-# 🌐 Connect With Me
-<p align="left">
-<a href="https://linkedin.com/in/muneeba-tariq-2a7565372">
-<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
-</a>
-<a href="mailto:muneebatariq239@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="48"/>
-</a>
-<a href="https://github.com/MuneebaTariq67">
-<img src="https://skillicons.dev/icons?i=github" width="48"/>
-</a>
-</p>
 
----
 
 # 💻 Tech Stack
 <p align="center">
@@ -88,6 +75,19 @@
 - Modern Frontend Development
 
 ---
+# 🌐 Connect With Me
+<p align="left">
+<a href="https://linkedin.com/in/muneeba-tariq-2a7565372">
+<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+</a>
+<a href="mailto:muneebatariq239@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="48"/>
+</a>
+<a href="https://github.com/MuneebaTariq67">
+<img src="https://skillicons.dev/icons?i=github" width="48"/>
+</a>
+</p>
+
 
 # 👀 Profile Views
 <p align="center">
